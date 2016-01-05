@@ -6,11 +6,15 @@ Movie Manager: categorize movies by genre, actors, title, year, and rating.
 $Movie-Manager will solve your problem of where to enter in all your movies,
 by providing a basic form to keep an updated organized lists of movies in collection.
 
-Look how easy it is to use:
+## Run It On Your Machine
 
-    import movie
-    # Manage your Movies
-    project.movie()
+```bash
+git clone https://github.com/github/movie-manager.com.git
+cd movie-manager.com
+script/bootstrap
+script/server
+```
+Open `http://localhost:4000` in your favorite browser.
 
 Features
 --------
