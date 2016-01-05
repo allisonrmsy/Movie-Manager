@@ -10,7 +10,7 @@ Run It On Your Machine
 --------
 
 ```bash
-git clone https://github.com/github/movie-manager.com.git
+git clone https://github.com/allisonrmsy/Movie-Manager.git
 cd movie-manager.com
 script/bootstrap
 script/server
